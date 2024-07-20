@@ -1,14 +1,18 @@
 Hey Everyone! 🌙
+
 Welcome !!
+
 Let's get into my journey in github !
 📍 Location: Palwal, Haryana
 🏛️ Education: Deenbandhu Chhotu Ram University of Science and Technology
 🚀 Ambition: Progressing every day towards becoming a tech innovator.
 
 🚀 About Me
+
 Hi, I'm Hemlata Bainsla, a passionate Computer Science student with a strong enthusiasm for technology, software development, and problem-solving. I am dedicated to continuous learning and excited about contributing to impactful projects.
 
 🛠️ Skills
+
 Programming Languages: Java, Python, C, C++ with dsa in java
 Web Development: HTML, CSS, JavaScript, AngularJS, Node.js
 Database Management: SQL, MongoDB
