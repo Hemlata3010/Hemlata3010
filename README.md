@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemlata3010&label=Profile%20views&color=0e75b6&style=flat" alt="hemlata3010" /> </p>
 
-- 👯 I’m looking to collaborate on **Web Dev**
+- 👯 I’m looking to collaborate on **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hemlata3010?tab=repositories](https://github.com/Hemlata3010?tab=repositories)
 
@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemlata-bainsla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemlata-bainsla" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/HemlataBainsla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemlata-bainsla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
